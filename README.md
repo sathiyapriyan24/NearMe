@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex03 Places Around Me
 ## Date: 15.02.2026
 
 ## AIM
